@@ -1,0 +1,14 @@
+total 48
+drwxr-xr-x 2 shaimae shaimae 4096 Jun 12 23:05 .
+drwxr-xr-x 6 shaimae shaimae 4096 Jun 12 15:43 ..
+-rwxr--r-- 1 shaimae shaimae   32 Jun 12 17:06 0-hello_world
+-rwxr--r-- 1 shaimae shaimae   28 Jun 12 18:36 1-confused_smiley
+-rwxr--r-- 1 shaimae shaimae   29 Jun 12 18:47 2-hellofile
+-rwxr--r-- 1 shaimae shaimae   39 Jun 12 18:56 3-twofiles
+-rwxr--r-- 1 shaimae shaimae   29 Jun 12 19:01 4-lastlines
+-rwxr--r-- 1 shaimae shaimae   29 Jun 12 19:05 5-firstlines
+-rwxr--r-- 1 shaimae shaimae   40 Jun 12 19:27 6-third_line
+-rwxr--r-- 1 shaimae shaimae   99 Jun 12 22:13 7-file
+-rwxr--r-- 1 shaimae shaimae   37 Jun 12 22:56 8-cwd_state
+-rw-r--r-- 1 shaimae shaimae   13 Jun 12 17:05 README.md
+-rw-r--r-- 1 shaimae shaimae    0 Jun 12 23:05 ls_cwd_content
